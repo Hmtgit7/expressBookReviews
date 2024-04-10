@@ -10,7 +10,7 @@ let books = {
   9: {
     author: "Honor\u00e9 de Balzac",
     title: "Le P\u00e8re Goriot",
-    reviews: {},
+    reviews: { 1: "Great book" , 2: "I love it", 3: "I hate it" },
   },
   10: {
     author: "Samuel Beckett",
